@@ -1,1 +1,1 @@
-Locked (danielmeppiel/apm)[https://github.com/danielmeppiel/apm]
+Locked [danielmeppiel/apm](https://github.com/danielmeppiel/apm)

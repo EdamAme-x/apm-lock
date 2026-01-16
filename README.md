@@ -1,10 +1,5 @@
 # APM – Agent Package Manager
 
-[![PyPI version](https://badge.fury.io/py/apm-cli.svg)](https://badge.fury.io/py/apm-cli)
-[![CI/CD Pipeline](https://github.com/danielmeppiel/apm/actions/workflows/build-release.yml/badge.svg)](https://github.com/danielmeppiel/apm/actions/workflows/build-release.yml)
-[![Downloads](https://img.shields.io/pypi/dm/apm-cli.svg)](https://pypi.org/project/apm-cli/)
-[![GitHub stars](https://img.shields.io/github/stars/danielmeppiel/apm.svg?style=social&label=Star)](https://github.com/danielmeppiel/apm/stargazers)
-
 **npm for AI coding agents.** The package manager for [AGENTS.md](https://agents.md), [Agent Skills](https://agentskills.io), and MCP servers.
 
 GitHub Copilot · Cursor · Claude · Codex · Gemini

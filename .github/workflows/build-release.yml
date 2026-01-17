@@ -17,9 +17,6 @@ on:
       - 'docs/**'
       - '.gitignore'
       - 'LICENSE'
-  schedule:
-    # Run daily at 04:00 UTC (6 AM CEST)
-    - cron: '0 4 * * *'
   workflow_dispatch:
     inputs:
       test_build:
